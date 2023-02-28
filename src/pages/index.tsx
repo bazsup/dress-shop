@@ -6,7 +6,9 @@ export default function Home() {
       <Head>
         <title>Dress Shop</title>
       </Head>
-      <main>Dress Shop</main>
+      <main>
+        <h1>Dress Shop</h1>
+      </main>
     </>
   );
 }
